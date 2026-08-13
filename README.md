@@ -59,3 +59,25 @@ The Power BI dashboard provides an interactive view of loan default patterns acr
 4. KPI and default-rate calculations
 5. Power BI dashboard development
 6. Insights and business interpretation
+
+## Skills Demonstrated
+
+- Data Exploration
+- Data Cleaning
+- SQL Data Analysis
+- Data Aggregation
+- Conditional Logic using CASE WHEN
+- Subqueries
+- Joins
+- KPI Calculation
+- Power BI Dashboard Development
+- Data Visualization
+- Business Insight Generation
+
+## Business Value
+
+This analysis helps identify patterns in loan defaults and highlights customer segments and regions that may require closer monitoring. The insights can support data-driven lending and risk-management decisions.
+
+## Project Outcome
+
+The project combines SQL analysis with Power BI visualization to transform raw loan data into actionable business insights.
