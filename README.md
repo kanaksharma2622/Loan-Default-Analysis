@@ -39,9 +39,8 @@ The Power BI dashboard provides a visual overview of loan default patterns and h
 The objective of this project is to use data analysis techniques to understand loan default patterns and provide insights that can support better lending and risk-management decisions.
 
 ## Dashboard
-
 The Power BI dashboard provides an interactive view of loan default patterns across different customer segments and regions.
-![Loan Default Dashboard](Dashboard Screenshot .png)
+![Loan Default Analysis Dashboard](Dashboard-Screenshot.png)
 
 ## Key Insights
 
